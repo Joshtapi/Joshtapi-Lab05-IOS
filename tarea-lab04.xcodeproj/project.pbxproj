@@ -9,21 +9,43 @@
 /* Begin PBXBuildFile section */
 		42A2E1462AC3AEDB000D434C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A2E1452AC3AEDB000D434C /* AppDelegate.swift */; };
 		42A2E1482AC3AEDB000D434C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A2E1472AC3AEDB000D434C /* SceneDelegate.swift */; };
-		42A2E14A2AC3AEDB000D434C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A2E1492AC3AEDB000D434C /* ViewController.swift */; };
+		42A2E14A2AC3AEDB000D434C /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A2E1492AC3AEDB000D434C /* ViewController1.swift */; };
 		42A2E14D2AC3AEDB000D434C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42A2E14B2AC3AEDB000D434C /* Main.storyboard */; };
 		42A2E14F2AC3AEDC000D434C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42A2E14E2AC3AEDC000D434C /* Assets.xcassets */; };
 		42A2E1522AC3AEDC000D434C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42A2E1502AC3AEDC000D434C /* LaunchScreen.storyboard */; };
+		42A2E15A2AC3B276000D434C /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A2E1592AC3B276000D434C /* ViewController2.swift */; };
+		42A2E15C2AC3B2B4000D434C /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A2E15B2AC3B2B4000D434C /* ViewController3.swift */; };
+		42A2E15E2AC3BFFF000D434C /* machu_picchu.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42A2E15D2AC3BFFF000D434C /* machu_picchu.jpg */; };
+		42A2E1622AC74395000D434C /* lima.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42A2E1612AC74395000D434C /* lima.jpg */; };
+		42A2E1642AC743A3000D434C /* cuzco.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42A2E1632AC743A3000D434C /* cuzco.jpg */; };
+		42A2E1662AC745B3000D434C /* rio_de_janeiro.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42A2E1652AC745B3000D434C /* rio_de_janeiro.jpg */; };
+		42A2E1682AC745C6000D434C /* sao_paulo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42A2E1672AC745C6000D434C /* sao_paulo.jpg */; };
+		42A2E16A2AC745D6000D434C /* amazon_rainforest.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42A2E1692AC745D6000D434C /* amazon_rainforest.jpg */; };
+		42A2E16C2AC745EC000D434C /* buenos_aires.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42A2E16B2AC745EC000D434C /* buenos_aires.jpg */; };
+		42A2E16E2AC745F8000D434C /* mendoza.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42A2E16D2AC745F8000D434C /* mendoza.jpg */; };
+		42A2E1702AC7460A000D434C /* patagonia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 42A2E16F2AC7460A000D434C /* patagonia.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		42A2E1422AC3AEDB000D434C /* tarea-lab04.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "tarea-lab04.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		42A2E1452AC3AEDB000D434C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		42A2E1472AC3AEDB000D434C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		42A2E1492AC3AEDB000D434C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		42A2E1492AC3AEDB000D434C /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 		42A2E14C2AC3AEDB000D434C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		42A2E14E2AC3AEDC000D434C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		42A2E1512AC3AEDC000D434C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		42A2E1532AC3AEDC000D434C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		42A2E1592AC3B276000D434C /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		42A2E15B2AC3B2B4000D434C /* ViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = "<group>"; };
+		42A2E15D2AC3BFFF000D434C /* machu_picchu.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = machu_picchu.jpg; sourceTree = "<group>"; };
+		42A2E1612AC74395000D434C /* lima.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = lima.jpg; sourceTree = "<group>"; };
+		42A2E1632AC743A3000D434C /* cuzco.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cuzco.jpg; sourceTree = "<group>"; };
+		42A2E1652AC745B3000D434C /* rio_de_janeiro.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rio_de_janeiro.jpg; sourceTree = "<group>"; };
+		42A2E1672AC745C6000D434C /* sao_paulo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sao_paulo.jpg; sourceTree = "<group>"; };
+		42A2E1692AC745D6000D434C /* amazon_rainforest.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = amazon_rainforest.jpg; sourceTree = "<group>"; };
+		42A2E16B2AC745EC000D434C /* buenos_aires.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = buenos_aires.jpg; sourceTree = "<group>"; };
+		42A2E16D2AC745F8000D434C /* mendoza.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mendoza.jpg; sourceTree = "<group>"; };
+		42A2E16F2AC7460A000D434C /* patagonia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = patagonia.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +80,22 @@
 			children = (
 				42A2E1452AC3AEDB000D434C /* AppDelegate.swift */,
 				42A2E1472AC3AEDB000D434C /* SceneDelegate.swift */,
-				42A2E1492AC3AEDB000D434C /* ViewController.swift */,
+				42A2E1492AC3AEDB000D434C /* ViewController1.swift */,
 				42A2E14B2AC3AEDB000D434C /* Main.storyboard */,
+				42A2E16F2AC7460A000D434C /* patagonia.jpg */,
+				42A2E16D2AC745F8000D434C /* mendoza.jpg */,
+				42A2E16B2AC745EC000D434C /* buenos_aires.jpg */,
+				42A2E1692AC745D6000D434C /* amazon_rainforest.jpg */,
+				42A2E1672AC745C6000D434C /* sao_paulo.jpg */,
+				42A2E1652AC745B3000D434C /* rio_de_janeiro.jpg */,
+				42A2E15B2AC3B2B4000D434C /* ViewController3.swift */,
+				42A2E1592AC3B276000D434C /* ViewController2.swift */,
 				42A2E14E2AC3AEDC000D434C /* Assets.xcassets */,
 				42A2E1502AC3AEDC000D434C /* LaunchScreen.storyboard */,
 				42A2E1532AC3AEDC000D434C /* Info.plist */,
+				42A2E15D2AC3BFFF000D434C /* machu_picchu.jpg */,
+				42A2E1632AC743A3000D434C /* cuzco.jpg */,
+				42A2E1612AC74395000D434C /* lima.jpg */,
 			);
 			path = "tarea-lab04";
 			sourceTree = "<group>";
@@ -125,8 +158,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				42A2E16C2AC745EC000D434C /* buenos_aires.jpg in Resources */,
+				42A2E16E2AC745F8000D434C /* mendoza.jpg in Resources */,
+				42A2E1642AC743A3000D434C /* cuzco.jpg in Resources */,
+				42A2E1662AC745B3000D434C /* rio_de_janeiro.jpg in Resources */,
 				42A2E1522AC3AEDC000D434C /* LaunchScreen.storyboard in Resources */,
+				42A2E1622AC74395000D434C /* lima.jpg in Resources */,
+				42A2E15E2AC3BFFF000D434C /* machu_picchu.jpg in Resources */,
+				42A2E16A2AC745D6000D434C /* amazon_rainforest.jpg in Resources */,
+				42A2E1702AC7460A000D434C /* patagonia.jpg in Resources */,
 				42A2E14F2AC3AEDC000D434C /* Assets.xcassets in Resources */,
+				42A2E1682AC745C6000D434C /* sao_paulo.jpg in Resources */,
 				42A2E14D2AC3AEDB000D434C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,7 +180,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				42A2E14A2AC3AEDB000D434C /* ViewController.swift in Sources */,
+				42A2E15C2AC3B2B4000D434C /* ViewController3.swift in Sources */,
+				42A2E14A2AC3AEDB000D434C /* ViewController1.swift in Sources */,
+				42A2E15A2AC3B276000D434C /* ViewController2.swift in Sources */,
 				42A2E1462AC3AEDB000D434C /* AppDelegate.swift in Sources */,
 				42A2E1482AC3AEDB000D434C /* SceneDelegate.swift in Sources */,
 			);
